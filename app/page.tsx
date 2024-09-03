@@ -7,6 +7,7 @@ import Footer from "@/components/Footer";
 import RecentProjects from "@/components/RecentProjects";
 import { FloatingNav } from "@/components/ui/FloatingNav";
 import { navItems } from "@/data";
+import { AppleCardsCarouselDemo } from "@/components/Card";
 
 export default function Home() {
   return (
@@ -19,8 +20,9 @@ export default function Home() {
         <Hero />
         <Grid/>
         <RecentProjects/>
-        <Clients/>
+        <AppleCardsCarouselDemo/>
         <Experience/>
+        <Clients/>
         {/* <Approach/> */}
         <Footer/>
       </div>
