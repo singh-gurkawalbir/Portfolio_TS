@@ -2,18 +2,18 @@
 
 import { FaLocationArrow } from "react-icons/fa6";
 
-import { projects } from "@/data";
+import { upcoming_projects } from "@/data";
 import { PinContainer } from "./ui/Pin";
 
-const RecentProjects = () => {
+const UpcomingProjects = () => {
   return (
-    <div className="py-20">
+    <div className="py-10">
       <h1 className="heading">
-        A small selection of{" "}
-        <span className="text-purple">recent projects</span>
+        <span className="text-purple">Upcoming </span>
+        Projects
       </h1>
       <div className="flex flex-wrap items-center justify-center p-4 gap-16 mt-10">
-        {projects.map((item) => (
+        {upcoming_projects.map((item) => (
           <div
             className="lg:min-h-[32.5rem] h-[25rem] flex items-center justify-center sm:w-96 w-[80vw]"
             key={item.id}
@@ -51,7 +51,7 @@ const RecentProjects = () => {
                 {item.des}
               </p>
               
-              <a href={item.link}>  
+              <a href='#'>  
               <div className="flex items-center justify-between mt-7 mb-3">
                 <div className="flex items-center">
                   {item.iconLists.map((icon, index) => (
@@ -83,4 +83,4 @@ const RecentProjects = () => {
   );
 };
 
-export default RecentProjects;
+export default UpcomingProjects;

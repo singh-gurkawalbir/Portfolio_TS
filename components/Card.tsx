@@ -11,8 +11,8 @@ export function AppleCardsCarouselDemo() {
   return (
     <div className="w-full h-full py-20">
      <h1 className="heading">
-        Showcasing my{" "}
-        <span className="text-purple">Achievements</span>
+        Wall of{" "}
+        <span className="text-purple">Iconic Moments</span>
       </h1>
       <Carousel items={cards} />
     </div>

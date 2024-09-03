@@ -49,7 +49,7 @@ export const navItems = [
   
     {
       id: 5,
-      title: "Currently building a JS Animation library",
+      title: "Currently building a JS Chrome Extension",
       description: "The Inside Scoop",
       className: "md:col-span-3 md:row-span-2",
       imgClassName: "absolute right-0 bottom-0 md:w-96 w-60",
@@ -72,35 +72,35 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "3D Solar System Planets to Explore",
-      des: "Explore the wonders of our solar system with this captivating 3D simulation of the planets using Three.js.",
-      img: "/p1.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/fm.svg"],
-      link: "https://github.com/adrianhajdin?tab=repositories",
+      title: "Face Detection System",
+      des: "A project with different features like face recognition, multiple face detection and 68 face Landmark detection",
+      img: "/p1.png",
+      iconLists: ["/python.svg", "/opencv.svg", "/keras.svg", "/pandas.svg", "/numpy.svg"],
+      link: "https://github.com/arshpreet8051/Face-Detection-and-Recognization",
     },
     {
       id: 2,
-      title: "Yoom - Video Conferencing App",
+      title: "Firebase Auth System",
       des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
-      img: "/p2.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/zoom-clone",
+      img: "/p2.png",
+      iconLists: ["/firebase.svg","/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
+      link: "https://github.com/arshpreet8051/Firebase-Auth-React-Typescript",
     },
     {
       id: 3,
-      title: "AI Image SaaS - Canva Application",
-      des: "A REAL Software-as-a-Service app with AI features and a payments and credits system using the latest tech stack.",
-      img: "/p3.svg",
-      iconLists: ["/re.svg", "/tail.svg", "/ts.svg", "/three.svg", "/c.svg"],
-      link: "https://github.com/adrianhajdin/ai_saas_app",
+      title: "AI Movie Recommendation System",
+      des: "Developed using Python, Pandas, scikit-learn, data cleaning,feature engineering, and advanced text processing with NLTK",
+      img: "/p3.png",
+      iconLists: ["/python.svg", "/numpy.svg", "/pandas.svg", "/kaggle.svg", "/stream.svg"],
+      link: "https://www.kaggle.com/code/arsh22/movie-recommendation-system",
     },
     {
       id: 4,
-      title: "Animated Apple Iphone 3D Website",
-      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
-      img: "/p4.svg",
-      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
-      link: "https://github.com/adrianhajdin/iphone",
+      title: "AI chatbot",
+      des: "Created a Real time chat-bot based on machine learning to answer frequently asked queries.",
+      img: "/p6.jpg",
+      iconLists: ["/python.svg", "/tail.svg", "/re.svg", "/keras.svg", "/numpy.svg"],
+      link: "https://drive.google.com/file/d/1IylVpdOt_KO3bGW_27k5PjSfv0NbYS52/view?usp=sharing",
     },
   ];
   
@@ -110,30 +110,40 @@ export const navItems = [
         "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
+      profile:"/c1.jpg",
+      link:"https://x.com/jsmasterypro"
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
+      profile:"/c1.jpg",
+      link:"https://x.com/jsmasterypro"
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
+      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
       name: "Michael Johnson",
       title: "Director of AlphaStream Technologies",
+      profile:"/c1.jpg",
+      link:"https://x.com/jsmasterypro"
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "All the best with building your portfolio, @Arsh_22ji! 🔥 Wishing you great success as you work on building your portfolio. Keep up the hard work and dedication, and I'm sure your efforts will pay off!",
+      name: "Adrian | JavaScript Mastery",
+      title: "Founder & CEO @ JS Mastery",
+      profile:"/c1.jpg",
+      link:"https://x.com/jsmasterypro"
     },
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
+        "Arshpreet Singh is an exceptionally talented developer with a strong foundation in DSA and full-stack development. His expertise extends to machine learning algorithms, where he demonstrates both depth and versatility. Working with him has been a privilege, and I have no doubt that his skills and dedication will drive the success of any project he undertakes.",
+      name: "Shubham Kumar",
+      title: "Intern @ QSpiders",
+      profile:"/c2.jpeg",
+      link:"https://www.linkedin.com/in/shubham-kumar-793399224/"
     },
   ];
   
@@ -173,29 +183,29 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Frontend Engineer Intern",
-      desc: "Assisted in the development of a web-based platform using React.js, enhancing interactivity.",
+      title: "Full Stack Intern - QSpiders",
+      desc: "Assisted in the development of a web-based platform using React.js and Node.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Mobile App Dev - JSM Tech",
-      desc: "Designed and developed mobile app for both iOS & Android platforms using React Native.",
+      title: "Python/React intern - GNDEC",
+      desc: "Designed and developed custom chatbot to answer FAQ's.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "Freelance App Dev Project",
-      desc: "Led the dev of a mobile app for a client, from initial concept to deployment on app stores.",
+      title: "BackEnd intern - Oasis Infobyte",
+      desc: "Led the dev of a backend architecture of an full stack app with ML integration.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
       title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies.",
+      desc: "Developed and maintained user-facing features using modern frontend technologies for opensource and freelance work.",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
@@ -216,5 +226,25 @@ export const navItems = [
       id: 3,
       img: "/link.svg",
       link:"https://www.linkedin.com/in/arshpreet-singh-3a44bb1b6/"
+    },
+  ];
+
+  export const upcoming_projects = [
+    
+    {
+      id: 1,
+      title: "Animated Apple Iphone 3D Website",
+      des: "Recreated the Apple iPhone 15 Pro website, combining GSAP animations and Three.js 3D effects..",
+      img: "/p4.svg",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "Coming Soon",
+    },
+    {
+      id: 2,
+      title: "GneVibe",
+      des: "It's a Secret 🤫",
+      img: "/p5.png",
+      iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
+      link: "Coming Soon",
     },
   ];
