@@ -16,6 +16,7 @@ export const InfiniteMovingCards = ({
     title: string;
     profile:string;
     link:string;
+    link2?:string;
   }[];
   direction?: "left" | "right";
   speed?: "fast" | "normal" | "slow";
@@ -84,7 +85,7 @@ export const InfiniteMovingCards = ({
         ref={scrollerRef}
         className={cn(
           // change gap-16
-          " flex min-w-full shrink-0 gap-16 py-4 w-max flex-nowrap",
+          " flex min-w-full shrink-0 gap-16 py-1 w-max flex-nowrap",
           start && "animate-scroll ",
           pauseOnHover && "hover:[animation-play-state:paused]"
         )}
@@ -114,8 +115,11 @@ export const InfiniteMovingCards = ({
                 
               </div>
               {/* change text color, text-lg */}
-              <span className=" relative z-20 text-sm md:text-lg leading-[1.6] text-white font-normal">
+              <span className="relative z-20 text-sm md:text-lg leading-[1.6] text-white font-normal">
                 {item.quote}
+                {item.name === "Adrian | JavaScript Mastery" && (
+                  <a href={item.link2} className="text-blue-500"> Read more</a>
+                )}
               </span>
               <div className="relative z-20 mt-6 flex flex-row items-center">
                 {/* add this div for the profile img */}

@@ -25,7 +25,6 @@ export default function Home() {
         <AppleCardsCarouselDemo/>
         <Experience/>
         <Clients/>
-        {/* <Approach/> */}
         <Footer/>
       </div>
     </main>

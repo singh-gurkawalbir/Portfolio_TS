@@ -107,27 +107,27 @@ export const navItems = [
   export const testimonials = [
     {
       quote:
-        "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-      profile:"/c1.jpg",
-      link:"https://x.com/jsmasterypro"
+        "He is highly skilled in Data Structures and Algorithms, and a confident public speaker. Working with him in several hackathons was a fantastic experience, where his problem-solving abilities really shone. He's a team player who always ensures that the ideas are clearly communicated, leading to great success in our projects.",
+      name: "Vansh Kumar",
+      title: "Full Stack Developer Intern @Yardstick",
+      profile:"/c3.jpeg",
+      link:"https://www.linkedin.com/in/vansh1190/"
     },
     {
       quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-      profile:"/c1.jpg",
-      link:"https://x.com/jsmasterypro"
+      "Collaborating with Arsh was an exceptionally positive and seamless experience from start to finish. His exceptional team management and leadership abilities stood out, demonstrating a remarkable capacity to guide and inspire those around him. Additionally, Arsh exhibited a high level of proficiency in tackling and resolving complex technical challenges, showcasing his efficient problem-solving skills with impressive effectiveness.",
+      name: "Mehak Kalia",
+      title: "Assistant Manager @Airtel",
+      profile:"/c4.jpeg",
+      link:"https://www.linkedin.com/in/mehak-kalia-349746212/"
     },
     {
       quote:
-      "Collaborating with Adrian was an absolute pleasure. His professionalism, promptness, and dedication to delivering exceptional results were evident throughout our project. Adrian's enthusiasm for every facet of development truly stands out. If you're seeking to elevate your website and elevate your brand, Adrian is the ideal partner.",
-      name: "Michael Johnson",
-      title: "Director of AlphaStream Technologies",
-      profile:"/c1.jpg",
-      link:"https://x.com/jsmasterypro"
+      "It has been an absolute pleasure mentoring Arshpreet on various technical projects. His technical expertise and problem-solving skills are truly impressive, consistently demonstrating a deep understanding of complex concepts and an ability to tackle challenges with creativity and precision. Arshpreet's enthusiasm for learning and commitment to excellence are evident in every project he undertakes. Additionally, his professional demeanor and collaborative spirit make working with him an enjoyable experience.",
+      name: "Dr.Akshay Girdhar",
+      title: "Professor I.T. @ GNDEC",
+      profile:"/c5.jpeg",
+      link:"https://www.linkedin.com/in/dr-akshay-girdhar-47911783/"
     },
     {
       quote:
@@ -135,7 +135,8 @@ export const navItems = [
       name: "Adrian | JavaScript Mastery",
       title: "Founder & CEO @ JS Mastery",
       profile:"/c1.jpg",
-      link:"https://x.com/jsmasterypro"
+      link:"https://x.com/jsmasterypro",
+      link2:"https://x.com/jsmasterypro/status/1829685537633968358"
     },
     {
       quote:
@@ -144,6 +145,14 @@ export const navItems = [
       title: "Intern @ QSpiders",
       profile:"/c2.jpeg",
       link:"https://www.linkedin.com/in/shubham-kumar-793399224/"
+    },
+    {
+      quote:
+        "Arshpreet Singh isn't just a developer; he's a wizard of code. His grasp of data structures and algorithms is like a magician's sleight of hand, and his full-stack skills are as versatile as a Swiss Army knife. But it's his knack for machine learning that truly sets him apart. He's not just coding; he's crafting intelligent systems that feel almost alive. Working with Arshpreet has been a blast, and I'm convinced that his unique blend of talent and enthusiasm will make a real difference on any project he touches.",
+      name: "Abhinav Prashar",
+      title: "Student Coordinator @ T&P GNDEC",
+      profile:"/c6.jpeg",
+      link:"https://www.linkedin.com/in/abhinav-prashar-48733b209/"
     },
   ];
   
