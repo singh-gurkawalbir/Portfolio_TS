@@ -117,7 +117,7 @@ export const InfiniteMovingCards = ({
               {/* change text color, text-lg */}
               <span className="relative z-20 text-sm md:text-lg leading-[1.6] text-white font-normal">
                 {item.quote}
-                {item.name === "Adrian | JavaScript Mastery" && (
+                {(item.name === "Adrian | JavaScript Mastery" || item.name === "Manu Arora | @mannupaaji") && (
                   <a href={item.link2} className="text-blue-500"> Read more</a>
                 )}
               </span>

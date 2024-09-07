@@ -140,6 +140,15 @@ export const navItems = [
     },
     {
       quote:
+        "Looks great, congratulations 💯",
+      name: "Manu Arora | @mannupaaji",
+      title: "Founder & CEO @ Aceternity.",
+      profile:"/c7.jpg",
+      link:"https://x.com/mannupaaji",
+      link2:"https://x.com/mannupaaji/status/1831969153663861110"
+    },
+    {
+      quote:
         "Arshpreet Singh is an exceptionally talented developer with a strong foundation in DSA and full-stack development. His expertise extends to machine learning algorithms, where he demonstrates both depth and versatility. Working with him has been a privilege, and I have no doubt that his skills and dedication will drive the success of any project he undertakes.",
       name: "Shubham Kumar",
       title: "Intern @ QSpiders",
