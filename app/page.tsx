@@ -21,7 +21,7 @@ export default function Home() {
         <Grid/>
         <RecentProjects/>
         <UpcomingProjects/>
-        <AppleCardsCarouselDemo/>
+        {/* <AppleCardsCarouselDemo/> */}
         <Experience/>
         <Clients/>
         <Footer/>

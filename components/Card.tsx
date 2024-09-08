@@ -32,12 +32,6 @@ const data = [
     src: "/me2.jpeg",
   },
   {
-    category: "Best Research Paper Award",
-    title: "",
-    src: "/me12.png",
-  },
-
-  {
     category: "11th Conference (ICAET)",
     title: "",
     src: "/prize.png",

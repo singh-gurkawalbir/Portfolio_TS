@@ -49,7 +49,7 @@ const Hero = () => {
       />
     </div>
     <p className="text-center md:tracking-wider mb-4 text-sm md:text-lg lg:text-2xl">
-      Hi, I&apos;m Arshpreet Singh, an Engineer from India.
+      Hi, I&apos;m Gurkawalbir Singh, an Engineer from India.
     </p>
     <a href="/resume.pdf" download>
   <MagicButton

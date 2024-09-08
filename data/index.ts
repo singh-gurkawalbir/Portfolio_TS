@@ -72,27 +72,27 @@ export const navItems = [
   export const projects = [
     {
       id: 1,
-      title: "Face Detection System",
+      title: "myuSync",
       des: "A project with different features like face recognition, multiple face detection and 68 face Landmark detection",
       img: "/p1.png",
       iconLists: ["/python.svg", "/opencv.svg", "/keras.svg", "/pandas.svg", "/numpy.svg"],
-      link: "https://github.com/arshpreet8051/Face-Detection-and-Recognization",
+      link: "https://github.com/singh-gurkawalbir/myuSync",
     },
     {
       id: 2,
       title: "Firebase Auth System",
-      des: "Simplify your video conferencing experience with Yoom. Seamlessly connect with colleagues and friends.",
+      des: "Simplify your Project collaboration experience with myuSunc. Seamlessly connect with colleagues and friends.",
       img: "/p2.png",
       iconLists: ["/firebase.svg","/next.svg", "/tail.svg", "/ts.svg", "/re.svg"],
-      link: "https://github.com/arshpreet8051/Firebase-Auth-React-Typescript",
+      link: "https://github.com/singh-gurkawalbir/myuSync",
     },
     {
       id: 3,
-      title: "AI Movie Recommendation System",
-      des: "Developed using Python, Pandas, scikit-learn, data cleaning,feature engineering, and advanced text processing with NLTK",
-      img: "/p3.png",
+      title: "Movie System",
+      des: "Developed using React, CSS, DB API, and data cleaning",
+      img: "/image.png",
       iconLists: ["/python.svg", "/numpy.svg", "/pandas.svg", "/kaggle.svg", "/stream.svg"],
-      link: "https://www.kaggle.com/code/arsh22/movie-recommendation-system",
+      link: "https://github.com/singh-gurkawalbir/Netflix-final?tab=readme-ov-file",
     },
     {
       id: 4,
@@ -100,7 +100,6 @@ export const navItems = [
       des: "Created a Real time chat-bot based on machine learning to answer frequently asked queries.",
       img: "/p6.jpg",
       iconLists: ["/python.svg", "/tail.svg", "/re.svg", "/keras.svg", "/numpy.svg"],
-      link: "https://drive.google.com/file/d/1IylVpdOt_KO3bGW_27k5PjSfv0NbYS52/view?usp=sharing",
     },
   ];
   
@@ -108,30 +107,30 @@ export const navItems = [
     {
       quote:
         "He is highly skilled in Data Structures and Algorithms, and a confident public speaker. Working with him in several hackathons was a fantastic experience, where his problem-solving abilities really shone. He's a team player who always ensures that the ideas are clearly communicated, leading to great success in our projects.",
-      name: "Vansh Kumar",
-      title: "Full Stack Developer Intern @Yardstick",
+      name: "Gurjeet Singh",
+      title: "Full Stack Developer @Standard Chartered Bank",
       profile:"/c3.jpeg",
-      link:"https://www.linkedin.com/in/vansh1190/"
+      link:"https://www.linkedin.com/in/gurjeet-singh-dhillon/"
     },
     {
       quote:
-      "Collaborating with Arsh was an exceptionally positive and seamless experience from start to finish. His exceptional team management and leadership abilities stood out, demonstrating a remarkable capacity to guide and inspire those around him. Additionally, Arsh exhibited a high level of proficiency in tackling and resolving complex technical challenges, showcasing his efficient problem-solving skills with impressive effectiveness.",
-      name: "Mehak Kalia",
-      title: "Assistant Manager @Airtel",
+      "Collaborating with Gurkawalbir was an exceptionally positive and seamless experience from start to finish. His exceptional team management and leadership abilities stood out, demonstrating a remarkable capacity to guide and inspire those around him. Additionally, Gurkawal exhibited a high level of proficiency in tackling and resolving complex technical challenges, showcasing his efficient problem-solving skills with impressive effectiveness.",
+      name: "Tanveer Singh",
+      title: "Software Engineer at Oracle",
       profile:"/c4.jpeg",
-      link:"https://www.linkedin.com/in/mehak-kalia-349746212/"
+      link:"https://www.linkedin.com/in/tanveeersinghh/"
     },
     {
       quote:
-      "It has been an absolute pleasure mentoring Arshpreet on various technical projects. His technical expertise and problem-solving skills are truly impressive, consistently demonstrating a deep understanding of complex concepts and an ability to tackle challenges with creativity and precision. Arshpreet's enthusiasm for learning and commitment to excellence are evident in every project he undertakes. Additionally, his professional demeanor and collaborative spirit make working with him an enjoyable experience.",
-      name: "Dr.Akshay Girdhar",
-      title: "Professor I.T. @ GNDEC",
+      "It has been an absolute pleasure mentoring Gurkawalbir on various technical projects. His technical expertise and problem-solving skills are truly impressive, consistently demonstrating a deep understanding of complex concepts and an ability to tackle challenges with creativity and precision. Gurkawal's enthusiasm for learning and commitment to excellence are evident in every project he undertakes. Additionally, his professional demeanor and collaborative spirit make working with him an enjoyable experience.",
+      name: "Ashima Anand",
+      title: "Professor Thapar University",
       profile:"/c5.jpeg",
-      link:"https://www.linkedin.com/in/dr-akshay-girdhar-47911783/"
+      link:"https://www.linkedin.com/in/ashima-anand-5b93b1a3/"
     },
     {
       quote:
-        "All the best with building your portfolio, @Arsh_22ji! 🔥 Wishing you great success as you work on building your portfolio. Keep up the hard work and dedication, and I'm sure your efforts will pay off!",
+        "All the best with building your portfolio, @Gurkawal_22ji! 🔥 Wishing you great success as you work on building your portfolio. Keep up the hard work and dedication, and I'm sure your efforts will pay off!",
       name: "Adrian | JavaScript Mastery",
       title: "Founder & CEO @ JS Mastery",
       profile:"/c1.jpg",
@@ -140,28 +139,19 @@ export const navItems = [
     },
     {
       quote:
-        "Looks great, congratulations 💯",
-      name: "Manu Arora | @mannupaaji",
-      title: "Founder & CEO @ Aceternity.",
-      profile:"/c7.jpg",
-      link:"https://x.com/mannupaaji",
-      link2:"https://x.com/mannupaaji/status/1831969153663861110"
-    },
-    {
-      quote:
-        "Arshpreet Singh is an exceptionally talented developer with a strong foundation in DSA and full-stack development. His expertise extends to machine learning algorithms, where he demonstrates both depth and versatility. Working with him has been a privilege, and I have no doubt that his skills and dedication will drive the success of any project he undertakes.",
-      name: "Shubham Kumar",
-      title: "Intern @ QSpiders",
+        "Gurkawalbir Singh is an exceptionally talented developer with a strong foundation in DSA and full-stack development. His expertise extends to machine learning algorithms, where he demonstrates both depth and versatility. Working with him has been a privilege, and I have no doubt that his skills and dedication will drive the success of any project he undertakes.",
+      name: "Ojus Kapoor",
+      title: "Analytics Associate at ZS",
       profile:"/c2.jpeg",
-      link:"https://www.linkedin.com/in/shubham-kumar-793399224/"
+      link:"https://www.linkedin.com/in/ojuskapoor7/"
     },
     {
       quote:
-        "Arshpreet Singh isn't just a developer; he's a wizard of code. His grasp of data structures and algorithms is like a magician's sleight of hand, and his full-stack skills are as versatile as a Swiss Army knife. But it's his knack for machine learning that truly sets him apart. He's not just coding; he's crafting intelligent systems that feel almost alive. Working with Arshpreet has been a blast, and I'm convinced that his unique blend of talent and enthusiasm will make a real difference on any project he touches.",
-      name: "Abhinav Prashar",
-      title: "Student Coordinator @ T&P GNDEC",
+        "Gurkawalbir Singh Singh isn't just a developer; he's a wizard of code. His grasp of data structures and algorithms is like a magician's sleight of hand, and his full-stack skills are as versatile as a Swiss Army knife. But it's his knack for machine learning that truly sets him apart. He's not just coding; he's crafting intelligent systems that feel almost alive. Working with Gurkawal has been a blast, and I'm convinced that his unique blend of talent and enthusiasm will make a real difference on any project he touches.",
+      name: "Arsh Mittal",
+      title: "Student Coordinator @ OWASP",
       profile:"/c6.jpeg",
-      link:"https://www.linkedin.com/in/abhinav-prashar-48733b209/"
+      link:"https://www.linkedin.com/in/arshmittal/"
     },
   ];
   
@@ -201,29 +191,29 @@ export const navItems = [
   export const workExperience = [
     {
       id: 1,
-      title: "Full Stack Intern - QSpiders",
+      title: "Full Stack Intern - Edudictive",
       desc: "Assisted in the development of a web-based platform using React.js and Node.js, enhancing interactivity.",
       className: "md:col-span-2",
       thumbnail: "/exp1.svg",
     },
     {
       id: 2,
-      title: "Python/React intern - GNDEC",
+      title: "Python/React intern - OWASP",
       desc: "Designed and developed custom chatbot to answer FAQ's.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp2.svg",
     },
     {
       id: 3,
-      title: "BackEnd intern - Oasis Infobyte",
-      desc: "Led the dev of a backend architecture of an full stack app with ML integration.",
+      title: "Analytics Associate at ZS",
+      desc: "Leveraged Amazon S3 for efficient data storage solutions, optimizing various AWS services to bolster platform capabilities.",
       className: "md:col-span-2", // change to md:col-span-2
       thumbnail: "/exp3.svg",
     },
     {
       id: 4,
-      title: "Lead Frontend Developer",
-      desc: "Developed and maintained user-facing features using modern frontend technologies for opensource and freelance work.",
+      title: "Frontend Developer at Celigo",
+      desc: "Developed and maintained user-facing features using modern frontend technologies for opensource and freelance work at Celigo",
       className: "md:col-span-2",
       thumbnail: "/exp4.svg",
     },
@@ -233,17 +223,17 @@ export const navItems = [
     {
       id: 1,
       img: "/git.svg",
-      link: "https://github.com/arshpreet8051"
+      link: "https://github.com/singh-gurkawalbir"
     },
     {
       id: 2,
       img: "/twit.svg",
-      link:"https://x.com/Arsh_22ji"
+      link:"https://x.com/GurkawalbirS"
     },
     {
       id: 3,
       img: "/link.svg",
-      link:"https://www.linkedin.com/in/arshpreet-singh-3a44bb1b6/"
+      link:"https://www.linkedin.com/in/singh-gurkawalbir/"
     },
   ];
 
@@ -259,7 +249,7 @@ export const navItems = [
     },
     {
       id: 2,
-      title: "GneVibe",
+      title: "TUVibe",
       des: "It's a Secret 🤫",
       img: "/p5.png",
       iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/three.svg", "/gsap.svg"],
